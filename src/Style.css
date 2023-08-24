@@ -1,0 +1,15 @@
+.primary {
+  background-color: blue;
+  color: black;
+}
+
+/*  --------------- Advanced ------------------------------------ */
+
+/* ---- Context Api  */
+
+/* -- Footer --- */
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
